@@ -1,4 +1,3 @@
-# Nexus-steps
 Nexus Installation
 Nexus is one a artifact repository which helps to store your build outcomes.
 
